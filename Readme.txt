@@ -1,4 +1,5 @@
- KATA  « Tennis Game »
+KATA  « Tennis Game »
+---------------------
 Tennis has a rather quirky scoring system, and to newcomers it can be a little difficult to keep track of. The Tennis Society has contracted you to build a scoreboard 
 to display the current score during tennis games. The umpire will have a handset with two buttons labeled “player 1 scores” and “player 2 scores”, which he or she will 
 press when the respective players score a point. When this happens, a big scoreboard display should update to show the current score. (When you first switch on the 
