@@ -8,10 +8,6 @@ public class App
 {
 
 	public static void main(String[] args) {
-//		System.out.println(Score.Love.ordinal());
-//		System.out.println(Score.Fifteen.ordinal());
-//		System.out.println(Score.values()[0]);
-//		System.out.println(Score.values()[1]);
 		TennisGameImpl tennisGame = new TennisGameImpl("Player1", "Player2");
 		tennisGame.getScore(0,0);
 		tennisGame.getScore(5,5);
@@ -49,6 +45,7 @@ public class App
 		tennisGame.getScore(4, 6);
 		tennisGame.getScore(16, 14);
 		tennisGame.getScore(14, 16);
+//		System.out.println(Score.Fifteen.ordinal());
 	}
 
 }
